@@ -22,6 +22,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-using <header> , <footer> instead of <div>
+change the title to "Horiseon"
 
+using <header> , <nav>, <footer>, <section>, <article> instead of <div>
 also refactor the css with it.
+
+using <section> to wrap the <img> tag instead of just using <div> for the image - line 28-29
+
