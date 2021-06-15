@@ -25,14 +25,14 @@ THEN I find a concise, descriptive title
 
 change the title to "Horiseon"
 
-using <header> , <nav>, <footer>, <section>, <article> <aside> reinstead of <div>
+using header , nav, footer, section, article, aside instead of div
 also refactor the css with it.
 
-using <section> to wrap the <img> tag instead of just using <div> for the image - line 28-29
+using section to wrap the img tag instead of just using div for the image - line 28-29
 
-adding id to the <section> on line 30.
+adding id to the section on line 30.
 
-adding alt to all <image> tag
+adding alt to all image tag
 
 found alot of repeat css class. refactor to maximize reusability
 
