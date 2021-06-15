@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 
 change the title to "Horiseon"
 
-using <header> , <nav>, <footer>, <section>, <article> <aside> instead of <div>
+using <header> , <nav>, <footer>, <section>, <article> <aside> reinstead of <div>
 also refactor the css with it.
 
 using <section> to wrap the <img> tag instead of just using <div> for the image - line 28-29
