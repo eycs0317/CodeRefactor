@@ -7,6 +7,7 @@ Refactor code to meets accessibility standards and clean code.
 ## Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
+
 WHEN I view the source code
 THEN I find semantic HTML elements
 
@@ -23,7 +24,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-change the title to "Horiseon"
+change the title to "Horiseon Social Solution Services"
 
 using header , nav, footer, section, article, aside instead of div
 also refactor the css with it.
@@ -35,4 +36,6 @@ adding id to the section on line 30.
 adding alt to all image tag
 
 found alot of repeat css class. refactor to maximize reusability
+
+h2 tag inside the footer change it to h4 a well as the css
 
