@@ -9,8 +9,8 @@ Refactor code to meets accessibility standards and clean code.
 git clone https://github.com/eycs0317/codeRefactor.git
 
 ## Build With
-  HTML
-  CSS
+  * HTML
+  * CSS
 
 ## Deployed Link
 
