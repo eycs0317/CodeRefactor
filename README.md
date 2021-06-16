@@ -54,7 +54,7 @@ GIVEN a webpage meets accessibility standards
 
 7. FOUND a lot of duplicate CSS
 
-* Refactor style.css to maximize reusability
+   * Refactor style.css to maximize reusability
 
 
 
